@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-  src="Gemini_Generated_Image_8l0k5f8l0k5f8l0k.png" 
+  src="muhammad_ali-github_banner.png" 
   alt="Profile Banner"
   width="100%"
 />
