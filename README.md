@@ -1,295 +1,142 @@
-<div align="center">
-
 <img 
   src="muhammad_ali-github_banner.png" 
   alt="Profile Banner"
   width="100%"
 />
+<h1 align="center">👋 Hey, I'm Muhammad Ali</h1>
+<h3 align="center">🎮 Senior Software Engineer • Full-Stack Architect • Perpetual Level-Up-er</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/LEVEL-Senior%20Engineer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CLASS-Full--Stack%20Architect-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-Actively%20Questing-brightgreen?style=for-the-badge" />
+</p>
 
-<a href="https://github.com/Ali-Rajpoot298">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=Building+enterprise+software+that+scales;ASP.NET+Core+%2B+Angular+%2B+Clean+Architecture;5%2B+years+in+healthcare%2C+insurance+%26+compliance+systems;Mentor+%7C+Problem+Solver+%7C+System+Designer" alt="Typing SVG" />
-</a>
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-ali-devexpert/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/12481017/ali-rajpoot"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+  <a href="mailto:alir86828@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
+---
 
-`Lahore, Pakistan` · `Senior Software Engineer` · `5+ Years Experience`
+## 🧭 Bio
 
-<a href="https://www.linkedin.com/in/muhammad-ali-devexpert"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:alir86828@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+I'm a Senior Software Engineer at **Dev & Mark**, on a long-running campaign to architect enterprise-grade web applications across **healthcare, research administration, and public infrastructure**. My build is specialized in **Angular** (frontend) and **.NET Core** (backend), with heavy investment in the **CI/CD Automation** and **Clean Architecture** skill trees.
 
-</div>
+Outside of shipping code, I run raid parties — mentoring junior developers, leading sprint planning, and reviewing pull requests — to keep the whole guild's output at S-tier quality.
 
-<br/>
+---
 
-## About Me
+## 🏆 Achievements Unlocked
 
-I'm a Senior Full Stack Software Engineer with 5+ years of experience designing and building enterprise-grade applications on the **Angular + ASP.NET Core** stack. My work has been concentrated in domains where correctness and traceability matter — healthcare, insurance, compliance auditing, and research administration — building systems that automate workflows, enforce regulatory requirements, and hold up under real operational load.
+| 🏅 Achievement | 📜 Description |
+|---|---|
+| **🥇 Gold Medalist** | M.S. Software Engineering, Superior University |
+| **🌟 Best Final Year Project** | Top thesis of my graduating batch |
+| **👑 Employee of the Year (2024)** | Dev & Mark |
+| **🎖️ Top Performer (2023)** | Dev & Mark |
+| **⚡ 95% On-Time Delivery** | Sustained across major project cycles |
+| **📈 25% Faster Turnaround** | Operational automation initiative |
 
-I like software problems that involve more than writing code: modeling messy business rules cleanly, designing data structures that won't need a rewrite in a year, and keeping a system understandable as it grows past its first version. I care about clean architecture not as a buzzword but because I've had to maintain systems that didn't have one.
+---
 
-**Engineering philosophy:** favor clarity over cleverness, design for the maintainer who inherits the code, and treat tests and documentation as part of the deliverable — not an afterthought.
+## 🎯 Active Quests
 
-<br/>
+**Main Quest — Enterprise System Architecture**
+Designing secure, scalable, healthcare-compliant systems where audit accuracy and fraud detection are non-negotiable win conditions.
 
-## Experience Snapshot
+**Side Quest — CI/CD Mastery**
+Optimizing large-scale pipelines for high-availability environments — fewer manual errors, faster deploys, happier team.
 
-<table>
-<tr>
-<td align="center" width="20%"><b>5+</b><br/><sub>Years of Experience</sub></td>
-<td align="center" width="20%"><b>6+</b><br/><sub>Industries Served</sub></td>
-<td align="center" width="20%"><b>9+</b><br/><sub>Enterprise Systems Delivered</sub></td>
-<td align="center" width="20%"><b>Full Stack</b><br/><sub>Angular + .NET</sub></td>
-<td align="center" width="20%"><b>Mentor</b><br/><sub>Junior Developers</sub></td>
-</tr>
-</table>
+**Side Quest — Cloud-Native Expansion**
+Leveling up in cloud-native architecture, infrastructure-as-code, and automated resilience.
 
-**Industries:** Healthcare · Insurance · Construction Compliance · Research Administration · Audit Management · Enterprise Resource Planning · Government Systems
+**Guild Duty — Mentorship**
+Running code review sessions and sprint retros that actually move the needle on code quality.
 
-<br/>
+---
 
-## Current Focus
+## 📚 Currently Grinding XP In
 
-- 🏗️ Designing microservices-based enterprise systems with clean separation of concerns
-- ☁️ Deepening hands-on experience with cloud-native deployment patterns (Azure, AWS)
-- 🔍 Applying system design principles to legacy modernization projects
-- 🤖 Exploring practical AI integration points in existing enterprise workflows
-- 🧭 Growing into a technical leadership role — architecture decisions, code review standards, mentoring
+- ☁️ Cloud-native architecture & infrastructure-as-code
+- ⚡ Frontend performance optimization (Angular / TypeScript)
+- 🧪 Advanced testing with Cypress
+- 🏛️ SOLID principles & clean architecture at team scale
+- 🤖 AI-assisted debugging & root-cause analysis
 
-<br/>
+---
 
-## Tech Stack
+## 🤝 Looking to Party Up
 
-<div align="center">
+I'm on the hunt for co-op partners for high-impact full-stack projects — especially in **microservices architecture**, **complex system integrations**, and platforms handling **sensitive data at scale**. If you're building something in healthcare compliance, research automation, or public infrastructure monitoring, let's team up.
 
-**Frontend**
+**What I bring to the raid:** frontend/backend balance, CI/CD know-how, performance tuning instincts.
+**What I'm farming for:** insights on high-availability pipeline design, microservices patterns, and remote team productivity.
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
-<img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular_Material-757575?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/PrimeNG-14B8A6?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white"/>
+---
 
-**Backend**
+## 💬 Ask Me About
 
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=nuget&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+![Healthcare Compliance](https://img.shields.io/badge/Healthcare%20Compliance%20Software-0f9d58?style=for-the-badge&logo=heart&logoColor=white)
+![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection%20%26%20Audit%20Systems-d93025?style=for-the-badge&logo=shieldcheck&logoColor=white)
+![Operational Automation](https://img.shields.io/badge/Operational%20Automation-f9ab00?style=for-the-badge&logo=lightning&logoColor=white)
+![Angular .NET Architecture](https://img.shields.io/badge/Angular%20%2B%20.NET%20Core%20Architecture-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Mentoring](https://img.shields.io/badge/Mentoring%20%26%20Code%20Review%20Culture-6a5acd?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Sprint Leadership](https://img.shields.io/badge/Sprint%20Leadership-1a73e8?style=for-the-badge&logo=jira&logoColor=white)
 
-**Databases**
+---
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+## 🛠️ Skill Tree / Tech Stack
+
+**Languages & Frameworks**
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 **Cloud & DevOps**
 
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white)
 
-**Testing & Practice**
+**Data & Databases**
 
-<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unit_Testing-25A162?style=flat-square&logo=testinglibrary&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-</div>
+**Testing & Tools**
 
-<br/>
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=flat&logo=Jasmine&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-## Core Competencies
+**Frontend Tooling**
 
-| Category | Focus Areas |
-|---|---|
-| **Architecture** | Clean Architecture, Microservices, Domain-Driven Design, CQRS |
-| **API Design** | RESTful APIs, Authentication/Authorization, API versioning, SignalR real-time services |
-| **Data** | Relational schema design, query optimization, Entity Framework performance tuning |
-| **Quality** | SOLID principles, design patterns, code review standards, unit/integration testing |
-| **Scale & Reliability** | Caching strategies, performance profiling, high-availability design |
-| **Leadership** | Mentoring junior engineers, technical documentation, cross-team requirement gathering |
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat&logo=blazor&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=Ionic&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 
-<br/>
+**Backend & AI/Data**
 
-## Architecture & Engineering
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
-<details>
-<summary><b>Expand — principles I apply in day-to-day system design</b></summary>
-<br/>
+---
 
-- **SOLID principles** as a baseline, not a checklist — applied where they reduce coupling, skipped where they'd add ceremony
-- **Repository & Unit of Work patterns** for testable, swappable data access layers
-- **CQRS** for systems with meaningfully different read/write workloads (common in audit and reporting-heavy applications)
-- **Dependency Injection** throughout, favoring composition over inheritance
-- **Domain-Driven Design** concepts — bounded contexts, aggregates — applied pragmatically in complex business domains like claims and compliance workflows
-- **Caching strategies** (in-memory and distributed) for read-heavy enterprise dashboards
-- **Security-first design** — role-based authorization, input validation, and audit trails as first-class requirements in regulated domains
+## 📊 Stats
 
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Ali-Rajpoot298&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ali-Rajpoot298&theme=dark&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ali-Rajpoot298&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
-<br/>
+### 🎲 Random Dev Wisdom
 
-## Featured Projects
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🏥 Healthcare Fraud Detection System
-**Domain:** Healthcare · Insurance
-**Stack:** Angular · ASP.NET Core · SQL Server
-**Architecture:** Clean Architecture, layered services with rule-based validation engine
-**Role:** Full Stack Developer
-**Impact:** Automated claim-flagging rules that previously required manual review, reducing analyst triage time on flagged claims.
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Ali-Rajpoot298&icon=0&color=0" /></a>
+</p>
 
-</td>
-<td width="50%" valign="top">
-
-### 📋 Case & Claim Management Platform
-**Domain:** Insurance
-**Stack:** Angular · ASP.NET Core Web API · SQL Server
-**Architecture:** Modular REST API with role-based access control
-**Role:** Full Stack Developer
-**Impact:** Centralized case tracking across teams, replacing spreadsheet-based handoffs with a single system of record.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Construction Audit & Compliance System
-**Domain:** Construction Compliance
-**Stack:** Angular · ASP.NET Core · PostgreSQL
-**Architecture:** Workflow engine with configurable audit checklists
-**Role:** Full Stack Developer
-**Impact:** Digitized paper-based audit workflows, giving compliance teams real-time visibility into audit status.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 Research Administration Platform
-**Domain:** Research Administration
-**Stack:** Angular · ASP.NET Core · SQL Server · SignalR
-**Architecture:** Multi-tenant enterprise application with real-time notifications
-**Role:** Full Stack Developer
-**Impact:** Streamlined grant and research request approvals across multiple departments.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📞 Insurance Customer Service Platform
-**Domain:** Insurance
-**Stack:** Angular · ASP.NET Core · REST APIs
-**Architecture:** Service-oriented backend integrated with third-party insurance data providers
-**Role:** Full Stack Developer
-**Impact:** Reduced average customer service resolution time through a unified case view.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Enterprise Workflow & ERP Systems
-**Domain:** Business Management · ERP
-**Stack:** Angular · ASP.NET Core · MySQL
-**Architecture:** Modular ERP components (Employee Management, Payroll) built on shared Clean Architecture core
-**Role:** Full Stack Developer
-**Impact:** Consolidated HR and payroll processes into one platform, cutting manual data entry across departments.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-
-## Achievements
-
-| | |
-|---|---|
-| 🏅 **Gold Medalist** | MS Software Engineering |
-| 🏆 **Employee of the Year** | Recognized for consistent delivery and technical ownership |
-| ⭐ **Top Performer Award** | Awarded for measurable impact on delivery timelines |
-| 🔬 **Best Researcher** | Recognized for research contribution during academic career |
-| 💡 **IGNITE Funded Project** | Secured government funding for an academic technology project |
-| 🎓 **Best Final Year Project** | Top-ranked capstone project in graduating class |
-| 👥 **Mentor** | Ongoing mentorship of junior developers on architecture and code quality |
-
-<br/>
-
-## Learning Roadmap
-
-Currently deepening expertise in:
-
-`Docker` → `Kubernetes` → `Redis` → `RabbitMQ` → `Kafka` → `Terraform` → `.NET Aspire` → `Cloud-Native Architecture` → `Applied AI Integration`
-
-<br/>
-
-## Professional Interests
-
-System Design · Cloud Architecture · Performance Engineering · DevOps · Applied AI · Open Source · Software Research
-
-<br/>
-
-## Open Source Goals
-
-I'm working toward contributing more consistently to open source — starting with small utility libraries drawn from patterns I've reused across enterprise projects (repository abstractions, API response wrappers, Angular form utilities), and eventually publishing starter templates for Clean Architecture in ASP.NET Core.
-
-<br/>
-
-## Development Philosophy
-
-> Code is read far more often than it's written — optimize for the next person, including future me.
-
-- **Clean code** isn't about being clever; it's about being obvious
-- **Maintainability** beats short-term speed almost every time
-- **Tests** are part of the design process, not a step after it
-- **Documentation** should explain *why*, since the code already explains *what*
-- **Business value** is the actual measure of good engineering — not technology for its own sake
-
-<br/>
-
-## Fun Facts
-
-☕ Debugging sessions run on coffee and patience, in roughly equal measure
-📚 Usually mid-way through a system design book or a research paper on distributed systems
-🧑‍🏫 Enjoy explaining a hard concept until it clicks for someone else — that's often when it clicks better for me too
-🧩 Treat every production bug as a small research problem worth documenting
-
-<br/>
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/muhammad-ali-devexpert/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:alir86828@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/muhammadali-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*"Good architecture doesn't eliminate complexity — it gives complexity somewhere sensible to live."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0F172A&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center"><sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
