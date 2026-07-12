@@ -5,13 +5,13 @@
   alt="Profile Banner"
   width="100%"
 />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:14B8A6&height=220&section=header&text=Muhammad%20Ali&fontSize=48&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+
 
 <a href="https://github.com/muhammadali-dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=Building+enterprise+software+that+scales;ASP.NET+Core+%2B+Angular+%2B+Clean+Architecture;5%2B+years+in+healthcare%2C+insurance+%26+compliance+systems;Mentor+%7C+Problem+Solver+%7C+System+Designer" alt="Typing SVG" />
 </a>
-
 <br/>
+
 
 `Lahore, Pakistan` · `Senior Software Engineer` · `5+ Years Experience`
 
@@ -215,31 +215,6 @@ I like software problems that involve more than writing code: modeling messy bus
 
 <br/>
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadali-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=14B8A6&icon_color=14B8A6&text_color=E2E8F0" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=14B8A6&text_color=E2E8F0" width="38%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadali-dev&theme=tokyonight&hide_border=true&background=0F172A&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" width="60%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadali-dev&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=14B8A6&line=14B8A6&point=E2E8F0" width="90%"/>
-
-</div>
-
-<details>
-<summary><b>Contribution Snake</b></summary>
-<br/>
-<img src="https://raw.githubusercontent.com/muhammadali-dev/muhammadali-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action.</sub>
-</details>
-
-<br/>
 
 ## Achievements
 
@@ -300,8 +275,8 @@ I'm working toward contributing more consistently to open source — starting wi
 
 <div align="center">
 
-<a href="https://linkedin.com/in/muhammadali-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:muhammad.ali@example.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-ali-devexpert/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:alir86828@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/muhammadali-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
