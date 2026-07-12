@@ -3,6 +3,7 @@
     src="muhammad_ali-github_banner.png"
     alt="Profile Banner"
     width="100%"
+    style="border-radius:10px"
   />
 </p>
 
