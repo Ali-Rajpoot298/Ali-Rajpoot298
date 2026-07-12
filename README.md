@@ -7,7 +7,7 @@
 />
 
 
-<a href="https://github.com/muhammadali-dev">
+<a href="https://github.com/Ali-Rajpoot298">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=650&lines=Building+enterprise+software+that+scales;ASP.NET+Core+%2B+Angular+%2B+Clean+Architecture;5%2B+years+in+healthcare%2C+insurance+%26+compliance+systems;Mentor+%7C+Problem+Solver+%7C+System+Designer" alt="Typing SVG" />
 </a>
 <br/>
@@ -15,8 +15,8 @@
 
 `Lahore, Pakistan` · `Senior Software Engineer` · `5+ Years Experience`
 
-<a href="https://linkedin.com/in/muhammadali-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:muhammad.ali@example.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-ali-devexpert"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:alir86828@gmail.com"><img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
