@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/102nYCDdNgtAjKLuioyl3jLdHEl6bO-Ot/view?usp=sharing" alt="Banner" width="100%" />
+  <img src="https://drive.google.com/file/d/102nYCDdNgtAjKLuioyl3jLdHEl6bO-Ot/view" alt="Banner" width="100%" />
 </p>
 
 ### 👋 Hi there
