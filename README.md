@@ -22,59 +22,214 @@
 
 ## 🧭 Bio
 
-I'm a Senior Software Engineer at **Dev & Mark**, on a long-running campaign to architect enterprise-grade web applications across **healthcare, research administration, and public infrastructure**. My build is specialized in **Angular** (frontend) and **.NET Core** (backend), with heavy investment in the **CI/CD Automation** and **Clean Architecture** skill trees.
 
-Outside of shipping code, I run raid parties — mentoring junior developers, leading sprint planning, and reviewing pull requests — to keep the whole guild's output at S-tier quality.
+> [!IMPORTANT]
+> **Class:** Senior Software Engineer · **Guild:** Dev & Mark
+>
+> Architecting enterprise-grade web applications across healthcare, research administration, and public infrastructure. Primary build: **Angular** (frontend) + **.NET Core** (backend), with heavy investment in **CI/CD Automation** and **Clean Architecture**.
+
+> [!TIP]
+> **Team Leadership:** Mentors junior developers, drives sprint planning, and leads pull request reviews — contributing to a 15% improvement in team code quality.
+
+---
+<table>
+<tr><td width="180"><b>🎯 Class</b></td><td>Senior Software Engineer</td></tr>
+<tr><td><b>🏰 Guild</b></td><td>Dev & Mark</td></tr>
+<tr><td><b>📜 Campaign</b></td><td>Architecting enterprise-grade web applications across healthcare, research administration, and public infrastructure</td></tr>
+<tr><td><b>🛠️ Primary Build</b></td><td>Angular (Frontend) + .NET Core (Backend)</td></tr>
+<tr><td><b>🌳 Skill Trees Invested</b></td><td>CI/CD Automation · Clean Architecture</td></tr>
+<tr><td><b>🎖️ Passive Ability</b></td><td>Party Leader — mentors juniors, runs sprint planning, reviews PRs to keep guild output S-tier</td></tr>
+</table>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Guild_Output-S--TIER-FFD700?style=for-the-badge&labelColor=2E2E2E" />
+</div>
+
+> *"Outside of shipping code, I run raid parties — mentoring junior developers, leading sprint planning, and reviewing pull requests — to keep the whole guild's output at S-tier quality."*
 
 ---
 
 ## 🏆 Achievements Unlocked
 
-| 🏅 Achievement | 📜 Description |
+<div align="center">
+
+<img src="https://img.shields.io/badge/🥇_LEGENDARY-Gold_Medalist,_MS_Software_Engineering-FFD700?style=for-the-badge&labelColor=2E2E2E" />
+<img src="https://img.shields.io/badge/👑_LEGENDARY-Employee_of_the_Year_(2024),_Dev_%26_Mark-FFD700?style=for-the-badge&labelColor=2E2E2E" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🌟_EPIC-Best_Final_Year_Project,_Top_of_Graduating_Batch-512BD4?style=for-the-badge&labelColor=2E2E2E" />
+<img src="https://img.shields.io/badge/🎖️_EPIC-Top_Performer_(2023),_Dev_%26_Mark-512BD4?style=for-the-badge&labelColor=2E2E2E" />
+<br/><br/>
+<img src="https://img.shields.io/badge/⚡_RARE-95%25_On--Time_Delivery,_Sustained_Across_Major_Cycles-00B4D8?style=for-the-badge&labelColor=2E2E2E" />
+<img src="https://img.shields.io/badge/📈_RARE-25%25_Faster_Turnaround,_Operational_Automation_Initiative-00B4D8?style=for-the-badge&labelColor=2E2E2E" />
+
+</div>
+
+<div align="center">
+
+| Rarity | Legend |
 |---|---|
-| **🥇 Gold Medalist** | M.S. Software Engineering, Superior University |
-| **🌟 Best Final Year Project** | Top thesis of my graduating batch |
-| **👑 Employee of the Year (2024)** | Dev & Mark |
-| **🎖️ Top Performer (2023)** | Dev & Mark |
-| **⚡ 95% On-Time Delivery** | Sustained across major project cycles |
-| **📈 25% Faster Turnaround** | Operational automation initiative |
+| 🟡 Legendary | Career-defining wins |
+| 🟣 Epic | Standout recognitions |
+| 🔵 Rare | Measurable delivery impact |
+
+</div>
+
 
 ---
 
 ## 🎯 Active Quests
 
-**Main Quest — Enterprise System Architecture**
+<table>
+<tr>
+<td width="220" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/🏰_MAIN_QUEST-FFD700?style=for-the-badge&labelColor=2E2E2E" />
+
+</td>
+<td valign="top">
+
+**Enterprise System Architecture**
 Designing secure, scalable, healthcare-compliant systems where audit accuracy and fraud detection are non-negotiable win conditions.
 
-**Side Quest — CI/CD Mastery**
+</td>
+</tr>
+<tr>
+<td width="220" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/⚙️_SIDE_QUEST-512BD4?style=for-the-badge&labelColor=2E2E2E" />
+
+</td>
+<td valign="top">
+
+**CI/CD Mastery**
 Optimizing large-scale pipelines for high-availability environments — fewer manual errors, faster deploys, happier team.
 
-**Side Quest — Cloud-Native Expansion**
+</td>
+</tr>
+<tr>
+<td width="220" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/☁️_SIDE_QUEST-512BD4?style=for-the-badge&labelColor=2E2E2E" />
+
+</td>
+<td valign="top">
+
+**Cloud-Native Expansion**
 Leveling up in cloud-native architecture, infrastructure-as-code, and automated resilience.
 
-**Guild Duty — Mentorship**
+</td>
+</tr>
+<tr>
+<td width="220" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/🛡️_GUILD_DUTY-00B4D8?style=for-the-badge&labelColor=2E2E2E" />
+
+</td>
+<td valign="top">
+
+**Mentorship**
 Running code review sessions and sprint retros that actually move the needle on code quality.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+| Quest Type | Meaning |
+|---|---|
+| 🏰 Main Quest | Core, career-defining focus |
+| ⚙️ Side Quest | Active skill-building tracks |
+| 🛡️ Guild Duty | Ongoing team responsibility |
+
+</div>
 
 ---
 
 ## 📚 Currently Grinding XP In
 
-- ☁️ Cloud-native architecture & infrastructure-as-code
-- ⚡ Frontend performance optimization (Angular / TypeScript)
-- 🧪 Advanced testing with Cypress
-- 🏛️ SOLID principles & clean architecture at team scale
-- 🤖 AI-assisted debugging & root-cause analysis
+<div align="center">
+
+<img src="https://img.shields.io/badge/☁️_XP+-Cloud--Native_Architecture_%26_IaC-00B4D8?style=for-the-badge&labelColor=2E2E2E" />
+<img src="https://img.shields.io/badge/⚡_XP+-Frontend_Performance_(Angular%2FTS)-512BD4?style=for-the-badge&labelColor=2E2E2E" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🧪_XP+-Advanced_Testing_with_Cypress-512BD4?style=for-the-badge&labelColor=2E2E2E" />
+<img src="https://img.shields.io/badge/🏛️_XP+-SOLID_%26_Clean_Architecture_at_Scale-00B4D8?style=for-the-badge&labelColor=2E2E2E" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🤖_XP+-AI--Assisted_Debugging_%26_RCA-FFD700?style=for-the-badge&labelColor=2E2E2E" />
+
+</div>
+
+<table width="100%">
+<tr><td width="70%"><b>☁️ Cloud-Native & IaC</b></td><td width="30%"><img src="https://geps.dev/progress/65?successColor=00B4D8" width="100%" /></td></tr>
+<tr><td><b>⚡ Frontend Performance</b></td><td><img src="https://geps.dev/progress/70?successColor=512BD4" width="100%" /></td></tr>
+<tr><td><b>🧪 Cypress Testing</b></td><td><img src="https://geps.dev/progress/60?successColor=512BD4" width="100%" /></td></tr>
+<tr><td><b>🏛️ SOLID @ Scale</b></td><td><img src="https://geps.dev/progress/75?successColor=00B4D8" width="100%" /></td></tr>
+<tr><td><b>🤖 AI-Assisted Debugging</b></td><td><img src="https://geps.dev/progress/55?successColor=FFD700" width="100%" /></td></tr>
+</table>
+
 
 ---
 
-## 🤝 Looking to Party Up
+## 🎮 Looking to Party Up
 
-I'm on the hunt for co-op partners for high-impact full-stack projects — especially in **microservices architecture**, **complex system integrations**, and platforms handling **sensitive data at scale**. If you're building something in healthcare compliance, research automation, or public infrastructure monitoring, let's team up.
+<div align="center">
 
-**What I bring to the raid:** frontend/backend balance, CI/CD know-how, performance tuning instincts.
-**What I'm farming for:** insights on high-availability pipeline design, microservices patterns, and remote team productivity.
+<img src="https://img.shields.io/badge/Player-Muhammad_Ali-2ea44f?style=flat&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/Class-Full--Stack_Engineer-512BD4?style=flat&logo=codesandbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Level-Senior_(5%2B_YOE)-00B4D8?style=flat&logo=riotgames&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-LFG:_Co--op_Partners-2ea44f?style=flat&logo=gitpod&logoColor=white" />
 
----
+</div>
+
+I'm hunting for co-op partners on high-impact full-stack projects — especially **microservices architecture**, **complex system integrations**, and platforms handling **sensitive data at scale**. If you're building in **healthcare compliance**, **research automation**, or **public infrastructure monitoring**, let's team up.
+
+### 🧬 Stat Sheet
+
+<table>
+<tr><td width="140"><b>Frontend</b></td><td><img src="https://geps.dev/progress/90?successColor=512BD4" /></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://geps.dev/progress/88?successColor=512BD4" /></td></tr>
+<tr><td><b>CI/CD</b></td><td><img src="https://geps.dev/progress/85?successColor=00B4D8" /></td></tr>
+<tr><td><b>System Design</b></td><td><img src="https://geps.dev/progress/80?successColor=00B4D8" /></td></tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**⚔️ What I Bring to the Raid**
+
+<img src="https://img.shields.io/badge/Frontend%2FBackend-Balance-512BD4?style=flat" /><br/>
+<img src="https://img.shields.io/badge/CI%2FCD-Know--how-00B4D8?style=flat" /><br/>
+<img src="https://img.shields.io/badge/Performance-Tuning_Instincts-512BD4?style=flat" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**🧪 What I'm Farming For**
+
+<img src="https://img.shields.io/badge/High--Availability-Pipeline_Design-00B4D8?style=flat" /><br/>
+<img src="https://img.shields.io/badge/Microservices-Patterns-512BD4?style=flat" /><br/>
+<img src="https://img.shields.io/badge/Remote_Team-Productivity-00B4D8?style=flat" />
+
+</td>
+</tr>
+</table>
+
+**🗺️ Preferred Quest Lines**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Healthcare-Compliance_★★★★☆-2ea44f?style=flat" />
+<img src="https://img.shields.io/badge/Research-Automation_★★★☆☆-2ea44f?style=flat" />
+<img src="https://img.shields.io/badge/Public_Infrastructure-Monitoring_★★★★☆-2ea44f?style=flat" />
+<img src="https://img.shields.io/badge/Microservices-Architecture_★★★★★-2ea44f?style=flat" />
+<img src="https://img.shields.io/badge/System-Integrations_★★★★☆-2ea44f?style=flat" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:512BD4,100:00B4D8&height=3&width=100%" width="100%"/>
+
 
 ## 💬 Ask Me About
 
@@ -133,10 +288,4 @@ I'm on the hunt for co-op partners for high-impact full-stack projects — espec
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Ali-Rajpoot298&icon=0&color=0" /></a>
-</p>
-
-<p align="center"><sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub></p>
