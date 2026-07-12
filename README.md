@@ -282,8 +282,6 @@ I'm working toward contributing more consistently to open source — starting wi
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=muhammadali-dev&color=14B8A6&style=flat-square&label=Profile+Views"/>
-
 </div>
 
 <br/>
