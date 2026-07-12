@@ -31,21 +31,7 @@
 > [!TIP]
 > **Team Leadership:** Mentors junior developers, drives sprint planning, and leads pull request reviews — contributing to a 15% improvement in team code quality.
 
----
-<table>
-<tr><td width="180"><b>🎯 Class</b></td><td>Senior Software Engineer</td></tr>
-<tr><td><b>🏰 Guild</b></td><td>Dev & Mark</td></tr>
-<tr><td><b>📜 Campaign</b></td><td>Architecting enterprise-grade web applications across healthcare, research administration, and public infrastructure</td></tr>
-<tr><td><b>🛠️ Primary Build</b></td><td>Angular (Frontend) + .NET Core (Backend)</td></tr>
-<tr><td><b>🌳 Skill Trees Invested</b></td><td>CI/CD Automation · Clean Architecture</td></tr>
-<tr><td><b>🎖️ Passive Ability</b></td><td>Party Leader — mentors juniors, runs sprint planning, reviews PRs to keep guild output S-tier</td></tr>
-</table>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Guild_Output-S--TIER-FFD700?style=for-the-badge&labelColor=2E2E2E" />
-</div>
-
-> *"Outside of shipping code, I run raid parties — mentoring junior developers, leading sprint planning, and reviewing pull requests — to keep the whole guild's output at S-tier quality."*
 
 ---
 
@@ -281,11 +267,30 @@ I'm hunting for co-op partners on high-impact full-stack projects — especially
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ali-Rajpoot298&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
-### 🎲 Random Dev Wisdom
+---
+## 🎲 Random Dev Wisdom
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+---
 
+## 📡 Guild Comms
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-ali-devexpert/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:alir86828@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/12481017/ali-rajpoot"><img src="https://img.shields.io/badge/StackOverflow-Ask-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+<a href="https://github.com/Ali-Rajpoot298"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+<p align="center"><i>Open to co-op partnerships, freelance quests, and full-time guilds alike.</i></p>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:0F172A&height=100&section=footer" width="100%"/>
+
+</div>
