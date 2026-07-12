@@ -1,5 +1,10 @@
 <div align="center">
 
+<img 
+  src="muhammad_ali-github_banner.png" 
+  alt="Profile Banner"
+  width="100%"
+/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:14B8A6&height=220&section=header&text=Muhammad%20Ali&fontSize=48&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/muhammadali-dev">
